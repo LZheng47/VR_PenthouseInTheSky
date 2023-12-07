@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fork low poly
+* source:	https://sketchfab.com/3d-models/fork-low-poly-34c052f5182d40d9b204c0dc83d1f44b
+* author:	zubair498 (https://sketchfab.com/zubair498)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fork low poly" (https://sketchfab.com/3d-models/fork-low-poly-34c052f5182d40d9b204c0dc83d1f44b) by zubair498 (https://sketchfab.com/zubair498) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

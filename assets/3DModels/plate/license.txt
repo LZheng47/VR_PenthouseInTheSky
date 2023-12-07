@@ -1,0 +1,11 @@
+Model Information:
+* title:	Plate
+* source:	https://sketchfab.com/3d-models/plate-3966eab192da44d7ad1e1c9d0afb08d5
+* author:	Valter Medeiros (https://sketchfab.com/valumlab)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Plate" (https://sketchfab.com/3d-models/plate-3966eab192da44d7ad1e1c9d0afb08d5) by Valter Medeiros (https://sketchfab.com/valumlab) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

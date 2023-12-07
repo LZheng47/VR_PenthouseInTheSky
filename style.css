@@ -1,0 +1,141 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  margin:0;
+}
+
+#mainContent{
+  align-items:center;
+  display:flex;
+  justify-content:center;
+  height:100vh;
+  position: relative;
+  text-align:center;
+}
+
+#mainContentText{
+  flex-direction: column;
+  flex:1;
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  position:absolute;
+  z-index:2;
+}
+
+#title *{
+  margin:0;
+}
+
+#background{
+  position:absolute;
+  
+  background:linear-gradient(135deg, rgba(106, 61, 255, 0.5), rgba(52, 237, 166,0.5)), url("assets/other/penthouse.png") no-repeat center;
+  box-shadow: inset 0em 0em 30em 2em rgba(0,0,0,0.8);
+  /*
+  background:linear-gradient(135deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("assets/other/penthouse.png") no-repeat center;
+  */
+  filter:blur(1px);
+  
+  top:0;
+  left:0;
+  bottom:0;
+  right:0;
+  z-index:1;
+}
+
+#title{
+  border:3px solid black;
+  font-size:3.2vw;
+  margin:0;
+  padding:35px 100px;
+  background-color:rgba(255,255,255,0.8);
+}
+
+#mainContentText h1, #mainContentText h2{
+  text-align:center;
+}
+
+#mainContentText h2{
+  padding: 10px;
+  margin: 40px;
+  font-size: 1vw;
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+  letter-spacing: 0.5vw;
+  background-color: rgba(255,255,255,0.88);
+}
+
+#body{
+  display:flex;
+  height:100vh;
+}
+
+#body > div{
+  flex:1;
+}
+
+#titleColor{
+  color:#ffc414;
+}
+
+#snapshot img{
+  width:100%;
+  height:100%;
+  object-fit:cover;
+}
+
+#snapshot{
+  display: flex;
+  vertical-align:middle;
+  justify-content:center;
+  align-items: center;
+}
+
+#description{
+  align-items: center;
+  display:flex;
+  flex-direction:column;
+  justify-content: center;
+}
+
+#descMainText{
+  font-size: 1.8vw;
+}
+
+.descSubtitle{
+  font-size: 1.5vw;
+  letter-spacing:5px;
+}
+
+#description ul{
+  font-size: 1vw;
+}
+
+#buttonContainer{
+  display:flex;
+}
+
+#buttonContainer > a{
+  flex:1;
+  padding: 12px 50px;
+  letter-spacing: 10px;
+  text-decoration: none;
+  color: white;
+  background: cadetblue;
+  font-size: 1vw;
+}
+
+#reload{
+  width:50px;
+  height:50px;
+  background-color:rgba(255,255,255,0.8);
+  color:black;
+  left:0;
+  bottom:0;
+  margin-left:10px;
+  margin-bottom:10px;
+  text-align:center;
+  position:absolute;
+  z-index:1;
+}

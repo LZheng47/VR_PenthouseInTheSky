@@ -1,0 +1,11 @@
+Model Information:
+* title:	Petit Blue Cake
+* source:	https://sketchfab.com/3d-models/petit-blue-cake-373a3d56a7cf4905a72915a2f170578e
+* author:	nickheitzman (https://sketchfab.com/nickheitzman)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Petit Blue Cake" (https://sketchfab.com/3d-models/petit-blue-cake-373a3d56a7cf4905a72915a2f170578e) by nickheitzman (https://sketchfab.com/nickheitzman) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

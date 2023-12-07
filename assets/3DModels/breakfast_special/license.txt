@@ -1,0 +1,11 @@
+Model Information:
+* title:	Breakfast Special
+* source:	https://sketchfab.com/3d-models/breakfast-special-14f1c741bd0f4c6080a9f8aad443529a
+* author:	ehcawen (https://sketchfab.com/ehcawen)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Breakfast Special" (https://sketchfab.com/3d-models/breakfast-special-14f1c741bd0f4c6080a9f8aad443529a) by ehcawen (https://sketchfab.com/ehcawen) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
